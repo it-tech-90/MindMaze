@@ -1,4 +1,4 @@
-# Summary of Mind Maze
+# :bulb:Summary of Mind Maze
 <p>This was the final product from my <b>IT 145 - Introction to Scripting</b> course. The task assigned was to create a fully functional text-based game using Python to demonstrate control flow, user input, data structures, and basic game logic (such as inventory validation checks and directional command movement).</p>
 
 <p>In this game, players explore different areas of their own mind - including dark halls, quiet chambers, and dreamlike spaces - collecting positive affirmations and traits like <b>resilience, clarity</b>, and <b>self-worth</b>. The ultimate goal: <b>gather all of the affirmations before encountering the villain - Imposter Syndrom</b>.</p>
