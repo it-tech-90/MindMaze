@@ -17,6 +17,7 @@ Python coded text-based game
     </ul>
 <li>Win/loss conditions based on whether all items are collected before the villain encounter</li>
 <li>Starting area: <i>The Sunlit Atrium</i> (no items, just a safe introduction)</li>
+</ul>
 </p>
 
 <h1>💻 Technologies Used</h1>
@@ -33,3 +34,4 @@ Python coded text-based game
 <li>Control structures and loops</li>
 <li>User input validation</li>
 <li>Logic planning for gameplay systems</li>
+</ul>
